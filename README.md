@@ -16,3 +16,9 @@ Python Project Report to Stakeholders
 - <b>Windows 11, Mac OS</b> (21H2)
 
 <h2>Report:</h2>
+
+<p align="center">
+Basketball stats Project: <br/>
+<img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall1.png" />
+<br />
+<br />
