@@ -18,7 +18,8 @@ Python Project Report to Stakeholders
 <h2>Report:</h2>
 
 <p align="center">
-Basketball stats Project: <br/>
-<img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall1.png" />
+Basketball Report: <br/>
+<img src="https://github.com/CaddenB26/BBall-Report/blob/803b384a636e608ed9685ff26c5ed5346555a6d0/Cadden%20Buist%20MAT-243%20project%202.docx" />
 <br />
 <br />
+<p/>
